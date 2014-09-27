@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<domains>
+	<host>
+	<name>win7</name>
+	<memory>1024</memory>
+	<belong>111402129</belong>
+	<port>5900</port>
+	<status>on</status>
+	<disk>8</disk>
+	</host>
+</domains>
